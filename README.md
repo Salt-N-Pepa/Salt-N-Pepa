@@ -5,10 +5,10 @@
 Caí no mundo da programação por acaso e acabei me apaixonando :purple_heart:
 </em></p>
 
+<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, D&D, Livros e Metal.
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin: alefeeliel](https://img.shields.io/badge/-alefeeliel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alefe-eliel-aaba53158/)](https://www.linkedin.com/in/alefe-eliel-aaba53158/)
 [![Twitter: @ollaffy](https://img.shields.io/twitter/follow/ollaffy?style=social)](https://twitter.com/ollaffy)
 [![GitHub Alefe](https://img.shields.io/github/followers/Salt-N-Pepa?label=follow&style=social)](https://github.com/Salt-N-Pepa)
-<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, D&D, Livros e Metal.
 
 
 
