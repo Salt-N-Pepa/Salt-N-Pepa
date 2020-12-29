@@ -10,7 +10,14 @@ Caí no mundo da programação por acaso e acabei me apaixonando :purple_heart:
 [![Twitter: @ollaffy](https://img.shields.io/twitter/follow/ollaffy?style=social)](https://twitter.com/ollaffy)
 [![GitHub Alefe](https://img.shields.io/github/followers/Salt-N-Pepa?label=follow&style=social)](https://github.com/Salt-N-Pepa)
 
-
+```javascript
+const alefe = {
+  pronouns: "they" | "them",
+  code: [Javascript, Typescript, HTML, CSS, C#],
+  tools: [React, Node],
+  architecture: ["microservices", "design system pattern"],
+}
+```
 
 <br />
 <br />
