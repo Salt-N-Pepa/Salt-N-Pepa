@@ -1,6 +1,6 @@
 <h2>Alef Eliel! <img src="https://media.giphy.com/media/SYLxFethD5lrZZcEX3/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/iGAYeXTFia25rpl8nX/giphy.gif" width="230">
-<p><em>Sistemas de Informação no <a href="https://site.uniaraxa.edu.br/">Uniaraxá </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Information System at <a href="https://site.uniaraxa.edu.br/">Uniaraxá </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <br /><br />
 Caí no mundo da programação por acaso e acabei me apaixonando :purple_heart:
 </em></p>
@@ -20,8 +20,7 @@ const alefe = {
 ```
 
 <br />
-<br />
 
-### "Always take the shot."
+### “I am the one thing in life I can control. I am inimitable; I am an original. I'm not falling behind or running late. I'm not standing still: I am lying in wait.”
 ---
  
