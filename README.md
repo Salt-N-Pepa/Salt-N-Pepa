@@ -15,7 +15,6 @@ const alefe = {
   pronouns: "they" | "them",
   code: [Javascript, Typescript, HTML, CSS, C#],
   tools: [React, Node],
-  architecture: ["microservices", "design system pattern"],
 }
 ```
 
